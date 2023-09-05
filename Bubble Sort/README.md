@@ -1,0 +1,6 @@
+# AlgoDaten
+# Bubble Sort #
+## Wie funktioniert ##
+Bubble Sort ist ein einfacher Sortieralgorithmus, der in der Informatik häufig als Beispiel für Sortieralgorithmen verwendet wird. Der Algorithmus arbeitet, indem er die Liste mehrmals durchgeht, Element für Element vergleicht und benachbarte Elemente vertauscht, wenn sie in der falschen Reihenfolge sind. Dieser Vorgang wird so oft wiederholt, bis die gesamte Liste sortiert ist. Der Algorithmus hat seinen Namen aufgrund der Art und Weise, wie die größten Elemente "nach oben" wie Blasen in einem aufsteigenden Luftstrom steigen. Bubble Sort nicht besonders effizient ist, insbesondere für große Listen.
+## Die Zeitkomplkexität ##
+Die Zeitkomplexität von Bubble Sort beträgt im schlechtesten Fall O(n^2), wobei "n" die Anzahl der Elemente in der zu sortierenden Liste ist. Das bedeutet, dass die Anzahl der Vergleiche und Vertauschungen im schlimmsten Fall quadratisch zur Anzahl der Elemente in der Liste steigt. Im Durchschnitt und im besten Fall, wenn die Liste bereits fast sortiert ist, kann Bubble Sort effizienter sein, mit einer Zeitkomplexität von O(n) im besten Fall. Dies tritt auf, wenn keine Vertauschungen erforderlich sind, weil die Liste bereits sortiert ist.
