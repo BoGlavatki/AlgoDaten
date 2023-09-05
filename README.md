@@ -1,6 +1,7 @@
 # AlgoDaten
 <h2>Algorithmen und Datenstrukturen:</h2>
 Hier werden die wichtigsten Datenstrukturen und Algorithmen in der Programmiersprache Java beschrieben und implementiert.  
+
  | Algorithmen  | Datenstrukturen |
 | ------------- | ------------- |
 | Bubble Sort  | Graphenn  |
@@ -8,6 +9,9 @@ Hier werden die wichtigsten Datenstrukturen und Algorithmen in der Programmiersp
 | Quick Sort  | LinkedList  |
 | Insertion Sort  | Bäume  |
 | Merge Sort  | Hash |
+
+
+ 
 
 
  
